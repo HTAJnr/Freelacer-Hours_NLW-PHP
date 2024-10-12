@@ -10,7 +10,7 @@
         </div>
         <div class="flex items-center space-x-2">
             <x-ui.icons.people-group class="w-[18px] h-[18px]"/>
-            <span>{{ $proposals->total() }}</span>
+            <span>{{ $proposals->total()}}</span>
         </div>
     </div>
 
