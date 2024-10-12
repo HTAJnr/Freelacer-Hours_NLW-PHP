@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My Laravel App</title>
+    <title>Freelancer Hours</title>
 </head>
 <body>
     <header>

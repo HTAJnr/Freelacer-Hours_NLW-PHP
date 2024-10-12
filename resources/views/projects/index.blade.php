@@ -1,3 +1,3 @@
 <x-layouts.app>
-    oi
+    <livewire:projects.index />
 </x-layouts.app>
