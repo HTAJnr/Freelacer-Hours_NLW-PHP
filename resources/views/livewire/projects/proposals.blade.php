@@ -1,3 +1,1 @@
-<div>
-    Componente LiveWire project proposal
-</div>
+<x-proposals :proposals="$project->proposals"/>
