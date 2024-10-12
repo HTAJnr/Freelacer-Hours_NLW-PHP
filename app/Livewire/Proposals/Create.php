@@ -38,7 +38,9 @@ class Create extends Component
             ['hours'=>$this->hours]
         );
 
-        $this->modal=false; 
+        $this->dispatch('proposal::created');
+
+        $this->modal=false;
     }
 
     public function render()
